@@ -1,0 +1,2 @@
+# polluk
+my edu uda
